@@ -1,0 +1,103 @@
+body {
+    width: 100%;
+}
+
+#homepage {
+    background-image: linear-gradient(to right, #F7C09A, #A6A6EF);
+}
+
+#breakfastpage {
+    background-color: #F7C09A;
+}
+
+#dinnerpage {
+    background-color: #A6A6EF;
+}
+
+img {
+    border-radius: 20%;
+    width: 25vw;
+}
+
+#eggpageimg {
+    margin-left: vw;
+}
+
+.options {
+    border-radius: 20%;
+    background-color: #F7C09A;
+    border: 4px solid #C5743B;
+}
+
+#bf {
+    background-color: #F7C09A;
+    border: 4px solid #C5743B;
+}
+
+#d {
+    background-color: #8B78EC;
+    border: 4px solid #4027BE;
+}
+
+div {
+    margin: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+#firstpage {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#breakfastbuttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#dinnerbuttons {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    text-align: center;
+    font-size: 5vw;
+    font-family: 'Agbalumo', caveat;
+    color: #363532;
+}
+
+#pagebuttons {
+    margin-top: 5vw;
+}
+
+#pagesb {
+    background-color: #F7C09A;
+    border: 2px solid #C5743B;
+    border-radius: 1vw;
+    padding: 1vw;
+    margin: .5vw;
+    font-size: 2vw;
+    width: 8vw;
+    text-align: center;
+    font-family: 'Agbalumo', caveat;
+    display: flex;
+}
+
+#pagesd {
+    background-color: #8B78EC;
+    border: 2px solid #4027BE;
+    border-radius: 1vw;
+    padding: 1vw;
+    margin: .5vw;
+    font-size: 2vw;
+    width: 8vw;
+    text-align: center;
+    font-family: 'Agbalumo', caveat;
+    display: flex;
+}
